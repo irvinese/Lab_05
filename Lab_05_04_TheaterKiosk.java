@@ -8,5 +8,6 @@ public class Lab_05_04_TheaterKiosk {
 
         System.out.println("If the persons age is over 21 then:" + age + wristBand);
         System.out.println("If the persons age is under 21 then" + age + noWristBand);
+
     }
 }

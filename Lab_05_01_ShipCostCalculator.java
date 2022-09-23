@@ -6,7 +6,7 @@ public class Lab_05_01_ShipCostCalculator {
         double shippingFee = 0;
 
         System.out.println("The price of the item is:" + price + shippingFee);
-        System.out.println("The price of the item is greater than 100 than:" + price);
+        System.out.println("If the price of the item is greater than 100 than:" + price);
 
     }
 
